@@ -1,5 +1,6 @@
 {
   "name": "react-devtools",
+  "version": "1.0.0",
   "dependencies": {
     "classnames": "^2.1.2",
     "es6-symbol": "^2.0.1",
